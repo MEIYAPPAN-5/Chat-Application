@@ -26,3 +26,5 @@ A real-time chat application to communicate with text and share media between us
 ### 6. Logout  
 - Users can log out to exit the app securely.  
 - Once logged out, they need to log in again to use the chat.  
+
+chat application
