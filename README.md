@@ -29,5 +29,9 @@ A real-time chat application to communicate with text and share media between us
 
 chat application
 
+
+
+
+
 ## wireframe :
 ![alt text](wireframe.jpg)
