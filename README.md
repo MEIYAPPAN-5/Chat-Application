@@ -28,3 +28,6 @@ A real-time chat application to communicate with text and share media between us
 - Once logged out, they need to log in again to use the chat.  
 
 chat application
+
+## wireframe :
+![alt text](<WhatsApp Image 2025-02-07 at 11.01.48_d6ef8e62.jpg>)
